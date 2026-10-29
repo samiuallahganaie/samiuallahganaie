@@ -30,7 +30,7 @@
 - **Portfolio:** https://samiuallahganaie.github.io/CodeNest/
 - **LinkedIn:** https://www.linkedin.com/in/samiuallah-ganaie-553bb9423/
 - **GitHub:** https://github.com/samiuallahganaie
-- Email: samiuallahganaie@gmail.com
+- ****Email**:** samiuallahganaie@gmail.com
 - **iNeuBytes Web Development Internship:** [View Live Project](https://internsamiuallah-inbt022287-ineubytes.onrender.com/)
 
 
